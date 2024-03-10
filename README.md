@@ -22,6 +22,8 @@ Pyspark is used to query and visualize tenure vs churn
 * Machine_Learning_Bank_Churn.ipynb - notebook where the ANN is trained and tested
 
 Summary of the ANN models
+
+
 ![image](https://github.com/AaronChen589/Bank-Churn-Analysis-/assets/80292924/80cb7c1f-ba7b-4442-8db6-2a5e8110b9fe)
 ![image](https://github.com/AaronChen589/Bank-Churn-Analysis-/assets/80292924/f3e6912f-e954-4eaa-a635-858c7513e239)
 ![image](https://github.com/AaronChen589/Bank-Churn-Analysis-/assets/80292924/fabf0df8-36a1-4adc-a766-1ccd78cdc987)
